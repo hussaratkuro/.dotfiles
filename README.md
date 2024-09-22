@@ -58,7 +58,7 @@
 
 - **Git GUI client**
 
-  - [GitKraken](https://aur.archlinux.org/packages/gitkraken)
+  - [GitKraken](https://aur.archlinux.org/packages/gitkraken)https://archlinux.org/packages/extra/any/lutris/
 
 - **Merge tool**
 
@@ -97,3 +97,16 @@
 
   - [Audacity](https://github.com/audacity/audacity)
   - [DaVinci Resolve Studio](https://aur.archlinux.org/packages/davinci-resolve-studio)
+ 
+- **Gaming**
+
+  - [Steam](https://archlinux.org/packages/multilib/x86_64/steam-native-runtime/)
+  - [Lutris](https://archlinux.org/packages/extra/any/lutris/)
+
+## Workspaces
+
+Workflow
+
+| W1  | W2                                                  | W3  | W4                                                  | W5                                           | W6                                                  | W7                                                                            | W8  | W9  | W10   |
+| --- | --------------------------------------------------- | --- | --------------------------------------------------- | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------- | --- | --- | ----- |
+| Browser | Terminal | Editors | File Manager | PDF Editor | Merge tool | Git client |  Spotify | Remote client | Misc. |
