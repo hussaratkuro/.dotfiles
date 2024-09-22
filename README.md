@@ -8,6 +8,7 @@
 <br>
 
   <a href="#software"><kbd> <br> Software I use <br> </kbd></a>&ensp;&ensp;
+  <a href="#workspaces"><kbd> <br> Workspaces <br> </kbd></a>&ensp;&ensp;
   <a href="#keybindings"><kbd> <br> Keybindings <br> </kbd></a>&ensp;&ensp;
   <a href="[https://www.youtube.com/watch?v=2rWqdKU1vu8&list=PLt8rU_ebLsc5yEHUVsAQTqokIBMtx3RFY&index=1](https://github.com/prasanthrangan/hyprdots)"><kbd> <br> Original dotfiles <br> </kbd></a>&ensp;&ensp;
 
