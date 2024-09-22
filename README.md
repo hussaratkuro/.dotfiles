@@ -4,6 +4,8 @@
 > These dotfiles are a modification of [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots)
 
 <div align="center">
+  
+![dusa](https://github.com/user-attachments/assets/cb43197e-1543-489c-8bc2-197c9fc07f83)
 
 <br>
 
