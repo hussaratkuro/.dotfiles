@@ -1,6 +1,6 @@
 # dotfiles
 
-> [!WARNING]
+> [!IMPORTANT]
 > These dotfiles are a modification of [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots)
 
 <div align="center">
