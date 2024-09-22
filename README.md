@@ -10,7 +10,7 @@
 <a href="#software"><kbd> <br> Software I use <br> </kbd></a>&ensp;&ensp;
 <a href="#workspaces"><kbd> <br> Workspaces <br> </kbd></a>&ensp;&ensp;
 <a href="#keybindings"><kbd> <br> Keybindings <br> </kbd></a>&ensp;&ensp;
-<a href="[https://github.com/prasanthrangan/hyprdots]"><kbd> <br> Original dotfiles <br> </kbd></a>&ensp;&ensp;
+<a href="https://github.com/prasanthrangan/hyprdots"><kbd> <br> Unmodified dotfiles <br> </kbd></a>&ensp;&ensp;
 
 </div><br><br>
 
