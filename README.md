@@ -7,10 +7,10 @@
 
 <br>
 
-  <a href="#software"><kbd> <br> Software I use <br> </kbd></a>&ensp;&ensp;
-  <a href="#workspaces"><kbd> <br> Workspaces <br> </kbd></a>&ensp;&ensp;
-  <a href="#keybindings"><kbd> <br> Keybindings <br> </kbd></a>&ensp;&ensp;
-  <a href="[https://www.youtube.com/watch?v=2rWqdKU1vu8&list=PLt8rU_ebLsc5yEHUVsAQTqokIBMtx3RFY&index=1](https://github.com/prasanthrangan/hyprdots)"><kbd> <br> Original dotfiles <br> </kbd></a>&ensp;&ensp;
+<a href="#software"><kbd> <br> Software I use <br> </kbd></a>&ensp;&ensp;
+<a href="#workspaces"><kbd> <br> Workspaces <br> </kbd></a>&ensp;&ensp;
+<a href="#keybindings"><kbd> <br> Keybindings <br> </kbd></a>&ensp;&ensp;
+<a href="[https://www.youtube.com/watch?v=2rWqdKU1vu8&list=PLt8rU_ebLsc5yEHUVsAQTqokIBMtx3RFY&index=1](https://github.com/prasanthrangan/hyprdots)"><kbd> <br> Original dotfiles <br> </kbd></a>&ensp;&ensp;
 
 </div><br><br>
 
@@ -18,66 +18,80 @@
 
 ## Software
 
-### Browser
+- **Windows Manager**
 
-- [Firefox](https://archlinux.org/packages/extra/x86_64/firefox/)
+  - [hypr](https://github.com/hyprwm/Hypr)
 
-### Terminal
+- **Shell**
 
-- [kitty](https://archlinux.org/packages/extra/x86_64/kitty/)
+  - [zsh](https://github.com/zsh-users/zsh)
+  - [powerlevel10k-prompt](https://github.com/romkatv/powerlevel10k)
+  - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+  - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+  - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 
-### Code editor
+- **Browser**
 
-- [Neovide](https://archlinux.org/packages/extra/x86_64/neovide/)
+  - [Firefox](https://archlinux.org/packages/extra/x86_64/firefox/)
 
-### File manager
+- **Terminal**
 
-- [Thunar](https://archlinux.org/packages/extra/x86_64/thunar/)
+  - [kitty](https://github.com/kovidgoyal/kitty)
+  - [fzf](https://github.com/junegunn/fzf)
+  - [htop](https://github.com/htop-dev/htop/)
 
-- [Double commander](https://archlinux.org/packages/extra/x86_64/doublecmd-qt5/) - commander + ftp
+- **Code editor**
 
-### PDF editor
+  - [Neovide](https://github.com/neovide/neovide)
 
-- [Master PDF editor](https://aur.archlinux.org/packages/masterpdfeditor)
+- **File manager**
 
-### Git GUI client
+  - [Thunar](https://github.com/xfce-mirror/thunar)
 
-- [GitKraken](https://aur.archlinux.org/packages/gitkraken)
+  - [Double commander](https://github.com/doublecmd/doublecmd) - commander + ftp
 
-### Merge tool
+- **PDF editor**
 
-- [Meld](https://archlinux.org/packages/extra/any/meld/)
+  - [Master PDF editor](https://aur.archlinux.org/packages/masterpdfeditor)
 
-### Music
+- **Git GUI client**
 
-- [Spotify](https://aur.archlinux.org/packages/spotify) with [spicetify](https://aur.archlinux.org/packages/spicetify-cli)
+  - [GitKraken](https://aur.archlinux.org/packages/gitkraken)
 
-### Discord
+- **Merge tool**
 
-- [Vesktop](https://aur.archlinux.org/packages/vesktop)
+  - [Meld](https://github.com/GNOME/meld)
 
-### Remote client
+- **Music**
 
-- [Remmina](https://archlinux.org/packages/extra/x86_64/remmina/)
+  - [Spotify](https://aur.archlinux.org/packages/spotify) with [spicetify](https://github.com/spicetify/cli)
 
-### Media
+- **Discord**
 
-- [mpv Media Player](https://archlinux.org/packages/extra/x86_64/mpv/) - videos
-- [qimgv](https://aur.archlinux.org/packages/qimgv) - images
+  - [Vesktop](https://github.com/Vencord/Vesktop)
 
-### Virtual machines
+- **Remote client**
 
-- [VMware Workstation](https://aur.archlinux.org/packages/vmware-workstation)
+  - [Remmina](https://github.com/FreeRDP/Remmina)
 
-### Photoshop
+- **Media**
 
-- [Krita](https://archlinux.org/packages/extra/x86_64/krita/)
+  - [mpv Media Player](https://archlinux.org/packages/extra/x86_64/mpv/) - videos
+  - [qimgv](https://github.com/easymodo/qimgv) - images
 
-### Video recording
+- **Virtual machines**
 
-- [OBS Studio](https://archlinux.org/packages/extra/x86_64/obs-studio/)
+  - [VMware Workstation](https://aur.archlinux.org/packages/vmware-workstation)
 
-### Audio/video editing
+- **Photoshop**
 
-- [Audacity](https://archlinux.org/packages/extra/x86_64/audacity/)
-- [DaVinci Resolve Studio](https://aur.archlinux.org/packages/davinci-resolve-studio)
+  - [Krita](https://github.com/KDE/krita)
+
+- **Video recording**
+
+  - [OBS Studio](https://github.com/obsproject/obs-studio)
+
+- **Audio/video editing**
+
+  - [Audacity](https://github.com/audacity/audacity)
+  - [DaVinci Resolve Studio](https://aur.archlinux.org/packages/davinci-resolve-studio)
