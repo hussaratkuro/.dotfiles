@@ -40,7 +40,7 @@
 
   - [kitty](https://github.com/kovidgoyal/kitty)
   - [fzf](https://github.com/junegunn/fzf)
-  - [htop](https://github.com/htop-dev/htop/)
+  - [btop](https://github.com/aristocratos/btop)
 
 - **Code editor**
 
@@ -50,7 +50,7 @@
 
   - [Thunar](https://github.com/xfce-mirror/thunar)
 
-  - [Double commander](https://github.com/doublecmd/doublecmd) - commander + ftp
+  - [Double commander](https://github.com/doublecmd/doublecmd) - commander + ftp (ftps/sftp)
 
 - **PDF editor**
 
@@ -58,7 +58,7 @@
 
 - **Git GUI client**
 
-  - [GitKraken](https://aur.archlinux.org/packages/gitkraken)https://archlinux.org/packages/extra/any/lutris/
+  - [GitKraken](https://aur.archlinux.org/packages/gitkraken)
 
 - **Merge tool**
 
@@ -109,9 +109,9 @@ Workflow
 
 <div align="center">
   
-| W1      | W2       | W3     | W4           | W5         | W6         | W7  | W8      | W9     | W10   |
-| ------- | -------- | ------ | ------------ | ---------- | ---------- | --- | ------- | ------ | ----- |
-| Browser | Terminal | Editor | File Manager | PDF Editor | Merge tool | Git | Spotify | Remote | Misc. |
+| W1      | W2       | W3     | W4           | W5         | W6   | W7        | W8      | W9     | W10   |
+| ------- | -------- | ------ | ------------ | ---------- | ---- | --------- | ------- | ------ | ----- |
+| Browser | Terminal | Editor | File Manager | Monitoring | Meld | GitKraken | Spotify | Remote |  Misc |
 
 </div>
 
