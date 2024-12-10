@@ -65,6 +65,7 @@ function in {
 }
 
 # Helpful aliases
+alias  c='clear' # clear terminal
 alias  l='eza -lh  --icons=auto' # long list
 alias ls='eza -1   --icons=auto' # short list
 alias ll='eza -lha --icons=auto --sort=name --group-directories-first' # long list all
@@ -76,6 +77,9 @@ alias plist='$aurhelper -Qs' # list installed package
 alias pavailable='$aurhelper -Ss' # list available package
 alias clearcache='$aurhelper -Sc' # remove unused cache
 alias cleanup='$aurhelper -Qtdq | $aurhelper -Rns -' # remove unused packages, also try > $aurhelper -Qqd | $aurhelper -Rsu --print -
+alias vc='code' # gui code editor
+alias vcp='sudo chown -R $(whoami) /opt/visual-studio-code' # vscode permissions
+alias btop='btop -t' # btop tty mode
 
 # Handy change dir shortcuts
 alias ..='cd ..'
@@ -89,12 +93,19 @@ alias mkdir='mkdir -p'
 
 # Fixes "Error opening terminal: xterm-kitty" when using the default kitty term to open some programs through ssh
 alias ssh='kitten ssh'
+alias w-r='kitten ssh -o "IdentitiesOnly=yes" -i ~/.ssh/white-room_id_rsa morpheus@white-room'
 
 # Always use neovide instead of vim
 alias vim='neovide'
 
+# neo-matrix transparent background
+alias matrix='neo --speed=15 -D'
+
 # Make fastfetch clear the terminal
 alias fetch='clear && fastfetch'
+
+# VNC server
+alias wayvnc='wayvnc -grD --config $HOME/.config/wayvnc/config'
 
 # FZF
 source /usr/share/fzf/key-bindings.zsh
@@ -106,4 +117,4 @@ source /usr/share/fzf/completion.zsh
 #Display Pokemon
 pokemon-colorscripts --no-title -r 1,3,6
 
-export PATH=$PATH:/home/hussar/.spicetify
+export PATH=$PATH:$HOME/.spicetify
